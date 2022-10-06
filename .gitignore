@@ -1,0 +1,12 @@
+# CMake
+*.a
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# other artifacts
+*.out
+
+# other
+ignore/
